@@ -14,6 +14,7 @@ export default {
     {{ a?.b.c }}
   
       git test
+      git test2
   </div>
 </template>
 
